@@ -2,6 +2,7 @@
 Python script for Feedforward ANN on MNIST hand-written digits dataset
 
 Training set --> 60000 images
+
 Test set --> 10000 images
 
 Hyperparameters:
