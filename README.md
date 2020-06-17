@@ -1,8 +1,8 @@
 # MNIST-dataset-DL
-Python script for Feedforward ANN on MNIST dataset
+Python script for Feedforward ANN on MNIST hand-written digits dataset
 
-Training set --> 60000
-Test set --> 10000
+Training set --> 60000 images
+Test set --> 10000 images
 
 Hyperparameters:
 1) No of dense layers : 1
@@ -23,5 +23,6 @@ FINAL ACCURACY:
 3) Test set --> 98.16%
 
 ===>> This gap between training accuracy and test accuracy represents overfitting
+
 ===>> Confusion Matrix says that most misclasified labels were 2-->7 and 3-->5
 
